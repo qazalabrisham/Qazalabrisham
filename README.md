@@ -65,7 +65,7 @@ At the same time, I'm increasingly drawn toward Linux, low-level systems, and Em
 
 * Curious builder who enjoys turning ideas into working systems.
 * Learning never stops.
-* * If a topic catches my interest, I tend to dive deep until I understand how it works beneath the surface.
+* If a topic catches my interest, I tend to dive deep until I understand how it works beneath the surface.
 * I enjoy connecting ideas from technology, business, and human behavior rather than viewing them as separate fields.
 
 ---
