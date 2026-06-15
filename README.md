@@ -32,12 +32,6 @@ At the same time, I'm increasingly drawn toward Linux, low-level systems, and Em
 
 ### Language
 
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-### Language
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
