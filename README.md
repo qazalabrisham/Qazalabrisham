@@ -30,23 +30,28 @@ At the same time, I'm increasingly drawn toward Linux, low-level systems, and Em
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Language
 
-* Python
-* SQL
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
 ### Data & Analytics
 
-* Pandas
-* NumPy
-* Power BI
-* MySQL
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
 ### Systems & Tools
 
-* Linux
-* Git
-* Docker
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+
+### Currently Learning
+
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-0A66C2?style=flat\&logo=apacheairflow\&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ---
 
